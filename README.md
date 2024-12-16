@@ -23,4 +23,22 @@ Rely on classical **Bode** theory to analyze control performances, and prove it 
 
 For further details on the task and my solution (step by step), look at my [Report](https://github.com/AlePuglisi/trailway-DC-motor-control/blob/main/DC_Motor_Report.pdf)
 
-## Simulink scheme 
+## Simulink scheme and Simulation
+
+<image width=1200 height=400 src=https://github.com/user-attachments/assets/eb7d8686-83d8-411f-8b51-b7ee24d26fa6>
+(Refer to the Report for a description of each part in detail)
+<br/>To simulate the system: 
+
+- Run the MATLAB script: DCTractionMotor.m <br/>
+    For motor parameter computation, tuning, and Bode diagram analysis.<br/>
+    This will upload all the variables used in the Simulink scheme in the Workspace. 
+- Run the Simulink scheme: DCTractionMotorScheme.slx
+
+## Conclusion
+
+The Control gains obtained from the dynamic model imposing Loop shaping of the Bode diagram, provide satisfactory performance, with accurate set point tracking in speed and current.<br/>
+It is possible to experiment with this Simulink scheme and MATLAB code to check what happens if we change the track, and how different gains affect performances. 
+
+
+
+
