@@ -5,8 +5,8 @@ This repository contains the code (MATLAB scripts and Simulink model) and report
 
 ## Introduction
 
-<image width=450 height=300 src=https://github.com/user-attachments/assets/69c0d49c-2d90-466f-a51d-66bbb70e54d5>
-<image width=450 height=300 src=https://github.com/user-attachments/assets/3c34841f-f26d-4c61-b2f6-871b0456881c>
+<image width=400 height=250 src=https://github.com/user-attachments/assets/69c0d49c-2d90-466f-a51d-66bbb70e54d5>
+<image width=400 height=250 src=https://github.com/user-attachments/assets/3c34841f-f26d-4c61-b2f6-871b0456881c>
   
 <br/>
 <br/>
@@ -25,7 +25,8 @@ For further details on the task and my solution (step by step), look at my [Repo
 
 ## Simulink scheme and Simulation
 
-<image width=1200 height=400 src=https://github.com/user-attachments/assets/eb7d8686-83d8-411f-8b51-b7ee24d26fa6>
+<image width=800 height=300 src=https://github.com/user-attachments/assets/eb7d8686-83d8-411f-8b51-b7ee24d26fa6>
+
 (Refer to the Report for a description of each part in detail)
 <br/>To simulate the system: 
 
